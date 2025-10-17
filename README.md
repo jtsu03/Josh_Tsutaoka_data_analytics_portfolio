@@ -2,7 +2,7 @@
 
 ## Overview
 Welcome to my professional data analytics portfolio.  
-This repository highlights a collection of projects that demonstrate my analytical, technical, and business problem-solving skills developed through academic and applied data experience at **Loyola Marymount University (M.S. Business Analytics)**.
+This repository highlights a collection of projects that demonstrate my analytical, technical, and business problem-solving skills developed through academic and applied data experience.
 
 Each project showcases a unique analytical approach — from machine learning and econometrics to KPI dashboards and forecasting — combining technical execution with business insight.
 
