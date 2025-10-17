@@ -40,7 +40,7 @@ I focus on using analytics to uncover trends, optimize performance, and communic
 
 ## 📫 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/josh-tsutaoka
-- **Email:** [josh.tsutaoka@gmail.com](mailto:josh.tsutaoka@gmail.com)  
+- **Email:** [joshkt2003@gmail.com](mailto:joshkt2003@gmail.com)  
 - **GitHub:** [github.com/jtsu03](https://github.com/jtsu03)
 
 ---
