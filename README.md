@@ -24,8 +24,8 @@ Each project showcases a unique analytical approach — from machine learning an
 
 **Data Analysis & Modeling:** Regression, Classification, Forecasting, Econometrics  
 **Programming:** Python (pandas, scikit-learn, matplotlib), R (tidyverse, ggplot2), SQL  
-**Visualization:** Tableau, Power BI, Excel Dashboards  
-**Business Intelligence:** KPI reporting, Financial modeling, Performance analysis  
+**Visualization:** Tableau, Excel Dashboards  
+**Business Intelligence:** KPI reporting, Performance analysis  
 **Other Tools:** Git, Jupyter Notebook, Power Query, WordPress  
 
 ---
